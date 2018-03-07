@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * 
  * @author Alejandro Bajo Perez
- * @author Joaquin Alonso Pesiañez
+ * @author Joaquin Alonso Pesianez
  * @author Ismael Martin Ramirez
  * 
  *
